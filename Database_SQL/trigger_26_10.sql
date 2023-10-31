@@ -299,13 +299,12 @@ go
 create or alter view XemMayBay as
 select * from MAYBAY 
 go
-select * from CHONGOI
+
 go
 create or alter view XemMayBay1 as
 select * from MAYBAY where MaMayBay in( select DISTINCT MaMayBay from CHONGOI where CHONGOI.machuyenbay is NULL)
 
 go
-select * from XemMayBay1
 
 
 CREATE OR ALTER TRIGGER TriggerThemMayBay
@@ -913,7 +912,6 @@ begin
 end
 go
 
-go
 
 
 go
@@ -2170,12 +2168,13 @@ CREATE OR ALTER FUNCTION GetThongTinVeByMaVe(@MaVe varchar(15))
 RETURNS TABLE
 AS
 RETURN (
-    SELECT v.MaVe, v.is_deleted, h.MaHoaDon, h.MaGiaoDich, t.MaGhe, cb.NgayBay,cb.MaChuyenBay,kh.CCCD,kh.SDT,kh.HoTen,c.GiaGhe,v.NgayTaoVe
+    SELECT v.MaVe, v.is_deleted, h.MaHoaDon, h.MaGiaoDich, t.MaGhe, cb.NgayBay,cb.MaChuyenBay, cb.MaTuyenBay,kh.CCCD,kh.SDT,kh.HoTen,c.GiaGhe,v.NgayTaoVe
     FROM VECHUYENBAY v
     JOIN HOADON h ON v.MaHoaDon = h.MaHoaDon
     JOIN THONGTINGIAODICH t ON h.MaGiaoDich = t.MaGiaoDich
     JOIN CHONGOI c ON t.MaGhe = c.MaGhe
     JOIN CHUYENBAY cb ON cb.MaChuyenBay = t.MaChuyenBay
+	JOIN TUYENBAY tb ON cb.MaTuyenBay = tb.MaTuyenBay
     JOIN KHACHHANG kh ON h.CCCD = kh.CCCD
     WHERE v.MaVe = @MaVe
 );
@@ -2402,8 +2401,7 @@ BEGIN
     END
 END
 ---------------Test-------------------------------------------------------------------
-EXEC DoiVe @MaVe = 'VE016', @MaChuyenBaynew = 'CB013', @MaTuyenBaynew = 'TB5', @MaGhenew = '6A001', @GiaGhenew = 8000000;
-EXEC DoiVe @MaVe = 'VE017', @MaChuyenBaynew = 'CB013', @MaTuyenBaynew = 'TB5', @MaGhenew = '6A001', @GiaGhenew = 8000000;
+
 
 
 
