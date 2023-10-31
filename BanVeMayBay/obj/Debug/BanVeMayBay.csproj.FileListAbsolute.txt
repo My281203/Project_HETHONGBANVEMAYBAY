@@ -1,0 +1,425 @@
+E:\IT 4-4 Year\HK1 - Năm 3\DBMS\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe.config
+E:\IT 4-4 Year\HK1 - Năm 3\DBMS\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe
+E:\IT 4-4 Year\HK1 - Năm 3\DBMS\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.pdb
+E:\IT 4-4 Year\HK1 - Năm 3\DBMS\BanVeMayBay\BanVeMayBay\bin\Debug\Guna.UI2.dll
+E:\IT 4-4 Year\HK1 - Năm 3\DBMS\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.AssemblyReference.cache
+E:\IT 4-4 Year\HK1 - Năm 3\DBMS\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.SuggestedBindingRedirects.cache
+E:\IT 4-4 Year\HK1 - Năm 3\DBMS\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DangNhap.resources
+E:\IT 4-4 Year\HK1 - Năm 3\DBMS\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.Properties.Resources.resources
+E:\IT 4-4 Year\HK1 - Năm 3\DBMS\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.GenerateResource.cache
+E:\IT 4-4 Year\HK1 - Năm 3\DBMS\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CoreCompileInputs.cache
+E:\IT 4-4 Year\HK1 - Năm 3\DBMS\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CopyComplete
+E:\IT 4-4 Year\HK1 - Năm 3\DBMS\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.exe
+E:\IT 4-4 Year\HK1 - Năm 3\DBMS\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.pdb
+C:\Users\Acer\Source\Repos\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe.config
+C:\Users\Acer\Source\Repos\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe
+C:\Users\Acer\Source\Repos\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.pdb
+C:\Users\Acer\Source\Repos\BanVeMayBay\BanVeMayBay\bin\Debug\Guna.UI2.dll
+C:\Users\Acer\Source\Repos\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.AssemblyReference.cache
+C:\Users\Acer\Source\Repos\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Source\Repos\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DangNhap.resources
+C:\Users\Acer\Source\Repos\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.Properties.Resources.resources
+C:\Users\Acer\Source\Repos\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.GenerateResource.cache
+C:\Users\Acer\Source\Repos\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Source\Repos\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CopyComplete
+C:\Users\Acer\Source\Repos\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.exe
+C:\Users\Acer\Source\Repos\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.pdb
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe.config
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.pdb
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Guna.UI2.dll
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.AssemblyReference.cache
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.SuggestedBindingRedirects.cache
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DangNhap.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.Properties.Resources.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.GenerateResource.cache
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CoreCompileInputs.cache
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CopyComplete
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.exe
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.pdb
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_KhachHang.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_Menu.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NhanVien.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_BanVe.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChuyenBay.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiMatKhau.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHangVe.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHoaDon.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSPhieuDatCho.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSVe.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_MayBay.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TuyenBay.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ThongKe.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe.config
+E:\tét1\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe
+E:\tét1\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.pdb
+E:\tét1\BanVeMayBay\BanVeMayBay\bin\Debug\Guna.UI2.dll
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.AssemblyReference.cache
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.SuggestedBindingRedirects.cache
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_BanVe.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChuyenBay.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DangNhap.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiMatKhau.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHangVe.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHoaDon.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSPhieuDatCho.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSVe.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_KhachHang.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_MayBay.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_Menu.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NhanVien.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ThongKe.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TuyenBay.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.Properties.Resources.resources
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.GenerateResource.cache
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CoreCompileInputs.cache
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CopyComplete
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.exe
+E:\tét1\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.pdb
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe.config
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.pdb
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_BanVe.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChuyenBay.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DangNhap.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiMatKhau.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHangVe.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHoaDon.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSPhieuDatCho.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSVe.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_KhachHang.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_MayBay.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_Menu.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NhanVien.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ThongKe.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TuyenBay.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CopyComplete
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.exe
+C:\Users\Admin\Documents\GitHub\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.pdb
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonHoaDoncs.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonKhachHang.resources
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NutChonHoTroBanVe.resources
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Barcode.dll
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.DataExport.dll
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.DataExport.ResourceMgr.dll
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Doc.dll
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.DocViewer.Forms.dll
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Pdf.dll
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.PdfViewer.Asp.dll
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.PdfViewer.Forms.dll
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Presentation.dll
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.XLS.dll
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Microsoft.mshtml.dll
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Barcode.xml
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.DataExport.xml
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Doc.xml
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.DocViewer.Forms.xml
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Pdf.xml
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.PdfViewer.Asp.xml
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.PdfViewer.Forms.xml
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Presentation.xml
+E:\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.XLS.xml
+E:\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBay.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe.config
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.pdb
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Barcode.dll
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.DataExport.dll
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.DataExport.ResourceMgr.dll
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Doc.dll
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.DocViewer.Forms.dll
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Pdf.dll
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.PdfViewer.Asp.dll
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Presentation.dll
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.XLS.dll
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Barcode.xml
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.DataExport.xml
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Doc.xml
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.DocViewer.Forms.xml
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Pdf.xml
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.PdfViewer.Asp.xml
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.Presentation.xml
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\bin\Debug\Spire.XLS.xml
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_BanVe.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBay.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonHoaDoncs.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonKhachHang.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChuyenBay.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DangNhap.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiMatKhau.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHangVe.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHoaDon.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSPhieuDatCho.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSVe.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_KhachHang.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_MayBay.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_Menu.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NhanVien.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NutChonHoTroBanVe.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ThongKe.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TuyenBay.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.Properties.Resources.resources
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CopyComplete
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.exe
+C:\Users\Admin\Downloads\Github\Github\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.pdb
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.AssemblyReference.cache
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_BanVe.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBay.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonHoaDoncs.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonKhachHang.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChuyenBay.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DangNhap.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiMatKhau.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHangVe.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHoaDon.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSPhieuDatCho.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSVe.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_KhachHang.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_MayBay.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_Menu.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NhanVien.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NutChonHoTroBanVe.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ThongKe.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TuyenBay.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.Properties.Resources.resources
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.GenerateResource.cache
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CoreCompileInputs.cache
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.exe
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.pdb
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe.config
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.pdb
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\bin\Debug\Guna.UI2.dll
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CopyComplete
+D:\Năm 3\HK_I\HQTCSDL\DBMS_Nhom9_CuoiKy\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBayBV.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe.config
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.pdb
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.dll
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\bin\Debug\Guna.UI2.dll
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.xml
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.AssemblyReference.cache
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_BanVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBay.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBayBV.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonHoaDoncs.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonKhachHang.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChuyenBay.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DangNhap.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiMatKhau.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHangVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHoaDon.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSPhieuDatCho.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_KhachHang.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_MayBay.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_Menu.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NhanVien.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NutChonHoTroBanVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ThongKe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TuyenBay.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.Properties.Resources.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.GenerateResource.cache
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CoreCompileInputs.cache
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CopyComplete
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.exe
+D:\HK1_nam_3\HQTCSDL\DoAn\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.pdb
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe.config
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.pdb
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.dll
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\bin\Debug\Guna.UI2.dll
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.xml
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.AssemblyReference.cache
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_BanVe.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBay.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBayBV.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonHoaDoncs.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonKhachHang.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChuyenBay.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DangNhap.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiMatKhau.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHangVe.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHoaDon.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSPhieuDatCho.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSVe.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_KhachHang.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_MayBay.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_Menu.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NhanVien.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NutChonHoTroBanVe.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ThongKe.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TuyenBay.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.Properties.Resources.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.GenerateResource.cache
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CoreCompileInputs.cache
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CopyComplete
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.exe
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.pdb
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TTGDtoHD.resources
+D:\ATTT\NhanDangTraiCay\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_HuyVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe.config
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.pdb
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.dll
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\bin\Debug\Guna.UI2.dll
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.xml
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.AssemblyReference.cache
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_BanVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBay.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBayBV.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonHoaDoncs.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonKhachHang.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChuyenBay.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DangNhap.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiMatKhau.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHangVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHoaDon.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSPhieuDatCho.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_HuyVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_KhachHang.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_MayBay.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NhanVien.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NutChonHoTroBanVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ThongKe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TTGDtoHD.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TuyenBay.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.Properties.Resources.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.GenerateResource.cache
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CoreCompileInputs.cache
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CopyComplete
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.exe
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.pdb
+D:\HK1_nam_3\HQTCSDL\DoAn\29-10\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_Menu_Admin.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.AssemblyReference.cache
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_BanVe.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBay.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBayBV.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonHoaDoncs.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonKhachHang.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChuyenBay.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DangNhap.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiMatKhau.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiVe.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiVeKhacCB.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHangVe.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHoaDon.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSPhieuDatCho.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSVe.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_HuyVe.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_KhachHang.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_MayBay.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_Menu_Admin.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NhanVien.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NutChonHoTroBanVe.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ThongKe.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TTGDtoHD.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TuyenBay.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.Properties.Resources.resources
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.GenerateResource.cache
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CoreCompileInputs.cache
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.exe
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.pdb
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe.config
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.pdb
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.dll
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\Guna.UI2.dll
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.xml
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CopyComplete
+D:\11\20133\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_Menu_NhanVien.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe.config
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.pdb
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.dll
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\Guna.UI2.dll
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.xml
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.AssemblyReference.cache
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_BanVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBay.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBayBV.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonHoaDoncs.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonKhachHang.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChuyenBay.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DangNhap.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiMatKhau.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiVeKhacCB.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHangVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHoaDon.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSPhieuDatCho.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_HuyVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_KhachHang.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_MayBay.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_Menu_Admin.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_Menu_NhanVien.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NhanVien.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NutChonHoTroBanVe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ThongKe.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TTGDtoHD.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TuyenBay.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.Properties.Resources.resources
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.GenerateResource.cache
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CoreCompileInputs.cache
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CopyComplete
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.exe
+D:\HK1_nam_3\HQTCSDL\DoAn\30-10\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.pdb
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe.config
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.exe
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\BanVeMayBay.pdb
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.dll
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\Guna.UI2.dll
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\bin\Debug\DocumentFormat.OpenXml.xml
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.AssemblyReference.cache
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_BanVe.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBay.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonChuyenBayBV.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonHoaDoncs.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChonKhachHang.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ChuyenBay.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DangNhap.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiMatKhau.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiVe.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DoiVeKhacCB.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHangVe.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSHoaDon.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSPhieuDatCho.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_DSVe.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_HuyVe.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_KhachHang.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_MayBay.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_Menu_Admin.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_Menu_NhanVien.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NhanVien.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_NutChonHoTroBanVe.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_ThongKe.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TTGDtoHD.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.frm_TuyenBay.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.Properties.Resources.resources
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.GenerateResource.cache
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CoreCompileInputs.cache
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.csproj.CopyComplete
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.exe
+D:\1_Winform\BanVeMayBay_fix\BanVeMayBay\BanVeMayBay\obj\Debug\BanVeMayBay.pdb
