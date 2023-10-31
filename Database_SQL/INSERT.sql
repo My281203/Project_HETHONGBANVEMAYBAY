@@ -1,4 +1,4 @@
-﻿
+﻿use HETHONGBANVEMAYBAY9
 -- Thêm dữ liệu cho các sân bay ở Việt Nam
 INSERT INTO SANBAY (MaSanBay, TenSanBay, ViTri)
 VALUES

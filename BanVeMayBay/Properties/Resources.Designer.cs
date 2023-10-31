@@ -141,7 +141,7 @@ namespace BanVeMayBay.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Data Source=.;Initial Catalog=HETHONGBANVEMAYBAY9;Integrated Security=True.
+        ///   Looks up a localized string similar to Data Source=LAPTOP-8H92SVE2\SQLEXPRESS;Initial Catalog=HETHONGBANVEMAYBAY9;Integrated Security=True.
         /// </summary>
         internal static string cnnstr {
             get {

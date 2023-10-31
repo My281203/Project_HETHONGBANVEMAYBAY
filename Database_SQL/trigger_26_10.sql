@@ -648,6 +648,7 @@ BEGIN
     END
 END
 go
+
 CREATE OR ALTER PROCEDURE SuaKH
     @CCCD varchar(12),
     @TenKH nvarchar(30),
@@ -1047,14 +1048,6 @@ begin
 	END
 END
 go
-CREATE OR ALTER PROCEDURE ThemNV
-@MaNV varchar(10), @CCCD varchar(12), @TenNV nvarchar(30), @NgaySinh date, @GioiTinh nvarchar(5), @SDT varchar(10), @Diachi nvarchar(60)
-AS
-BEGIN
-    INSERT INTO NHANVIEN VALUES(@MaNV, @CCCD, @TenNV, @NgaySinh, @GioiTinh, @SDT, @Diachi);
-    INSERT INTO PHANQUYEN (MaNV, TaiKhoan, MatKhau, UyQuyen) VALUES (@MaNV, @MaNV, '123456789', 0); -- Giả sử mật khẩu mặc định là 'MatKhauMacDinh' và không có quyền đặc biệt
-END
-go
 
 create or alter trigger TriggerXoaPhanQuyenNhanVien ON NHANVIEN
 instead of delete
@@ -1081,7 +1074,6 @@ AS
 BEGIN
       DELETE FROM PHANQUYEN WHERE MaNV = @MaNV;   
 END
-
 go
 
 CREATE OR ALTER TRIGGER TriggerSuaNV ON NHANVIEN
@@ -1090,17 +1082,11 @@ AS
 BEGIN
     SET NOCOUNT ON;
 
-    -- Bắt đầu giao dịch
-    BEGIN TRANSACTION;
-
+    -- Kiểm tra trùng lặp CCCD và SDT
     IF EXISTS (
         SELECT 1
-        FROM inserted i
-        WHERE (
-            EXISTS (SELECT 1 FROM NHANVIEN n WHERE n.CCCD = i.CCCD AND n.MaNV <> i.MaNV)
-            OR
-            EXISTS (SELECT 1 FROM NHANVIEN n WHERE n.MaNV = i.MaNV AND n.CCCD <> i.CCCD)
-        )
+        FROM NHANVIEN n
+        INNER JOIN inserted i ON n.CCCD = i.CCCD AND n.MaNV <> i.MaNV
     )
     BEGIN
         PRINT N'Không được cập nhật CCCD trùng với CCCD của nhân viên khác';
@@ -1110,8 +1096,8 @@ BEGIN
 
     IF EXISTS (
         SELECT 1
-        FROM inserted i
-        WHERE EXISTS (SELECT 1 FROM NHANVIEN n WHERE n.SDT = i.SDT AND n.MaNV <> i.MaNV)
+        FROM NHANVIEN n
+        INNER JOIN inserted i ON n.SDT = i.SDT AND n.MaNV <> i.MaNV
     )
     BEGIN
         PRINT N'Không thể cập nhật Số Điện Thoại trùng với nhân viên khác.';
@@ -1127,12 +1113,10 @@ BEGIN
         NgaySinh = i.NgaySinh,
         GioiTinh = i.GioiTinh,
         SDT = i.SDT,
-		DiaChi = i.DiaChi
+        DiaChi = i.DiaChi
     FROM inserted i
     WHERE NHANVIEN.MaNV = i.MaNV;
 
-    -- Commit giao dịch nếu không có xung đột
-    COMMIT;
 END
 go
 
@@ -1140,7 +1124,7 @@ CREATE OR ALTER PROCEDURE SuaNV
 @MaNV varchar(10), @CCCD varchar(12), @TenNV nvarchar(30), @NgaySinh date, @GioiTinh nvarchar(5), @SDT varchar(10), @Diachi nvarchar(60)
 AS 
 BEGIN 
-    UPDATE NHANVIEN SET CCCD = @CCCD, TenNV = @TenNV, NgaySinh = @NgaySinh, GioiTinh = @GioiTinh, SDT = @SDT ,DiaChi = @DiaChi  where MaNV = @MaNV 
+    UPDATE NHANVIEN SET CCCD = @CCCD, TenNV = @TenNV, NgaySinh = @NgaySinh, GioiTinh = @GioiTinh, SDT = @SDT ,DiaChi = @DiaChi  where MaNV = @MaNV
 END
 go
 

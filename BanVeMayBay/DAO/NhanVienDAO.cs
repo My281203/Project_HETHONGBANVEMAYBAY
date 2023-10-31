@@ -73,5 +73,18 @@ namespace DAO
             sqlParameters[0].Value = Convert.ToString(str);
             return executeSearchQuery(sql,sqlParameters);
         }
+
+        public string GetNextMaNV()
+        {
+            string nextMaNV = null;
+            // Định nghĩa câu truy vấn SQL để lấy mã nhân viên tiếp theo từ cơ sở dữ liệu.
+            string sql = "SELECT dbo.GetNextMaNV() AS NextMaNV";
+
+            using (SqlCommand sqlCommand = new SqlCommand(sql, openConnection()))
+            {
+                nextMaNV = sqlCommand.ExecuteScalar() as string;
+            }
+            return nextMaNV;
+        }
     }
 }

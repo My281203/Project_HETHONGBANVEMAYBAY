@@ -12,7 +12,7 @@ namespace BanVeMayBay.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "17.7.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "17.3.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -26,8 +26,8 @@ namespace BanVeMayBay.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-T8IH679N\\GIAHAN;Initial Catalog=HETHONGBANVEMAYBAY;User ID=sa;" +
-            "Password=05092003")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-8H92SVE2\\SQLEXPRESS;Initial Catalog=HETHONGBANVEMAYBAY9;Integr" +
+            "ated Security=True")]
         public string HETHONGBANVEMAYBAYConnectionString {
             get {
                 return ((string)(this["HETHONGBANVEMAYBAYConnectionString"]));

@@ -36,5 +36,10 @@ namespace BUS
         {
             return nvDAO.Search(str);
         }
+
+        public string GetNextMaNV()
+        {
+            return nvDAO.GetNextMaNV();
+        }    
     }
 }

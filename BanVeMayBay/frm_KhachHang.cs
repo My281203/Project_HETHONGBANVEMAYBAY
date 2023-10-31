@@ -100,15 +100,6 @@ namespace BanVeMayBay
                 e.Handled = true;
         }
 
-        private void btn_Xoa_Click(object sender, EventArgs e)
-        {
-            KhachHang kh = new KhachHang();
-            KhachHangBUS khachHangBUS = new KhachHangBUS();
-            kh.cMND = txt_CMND.Text;
-            khachHangBUS.XoaKH(kh);
-            XemKhachHang();
-            Clear();
-        }
 
         private void btn_Sua_Click(object sender, EventArgs e)
         {
@@ -127,6 +118,11 @@ namespace BanVeMayBay
         private void btn_TimKiem_Click_1(object sender, EventArgs e)
         {
             Clear();
+        }
+
+        private void btn_TimKiem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

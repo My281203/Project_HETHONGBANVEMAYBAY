@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
             this.guna2HtmlLabel8 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.dtp_NgaySinh = new Guna.UI2.WinForms.Guna2DateTimePicker();
             this.cb_GioiTinh = new Guna.UI2.WinForms.Guna2ComboBox();
@@ -47,11 +47,11 @@
             this.pnl_ThongTinNV = new Guna.UI2.WinForms.Guna2CustomGradientPanel();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             this.dgvKH = new Guna.UI2.WinForms.Guna2DataGridView();
-            this.btn_TimKiem = new Guna.UI2.WinForms.Guna2Button();
+            this.btn_Clear = new Guna.UI2.WinForms.Guna2Button();
             this.btn_Sua = new Guna.UI2.WinForms.Guna2Button();
-            this.btn_Xoa = new Guna.UI2.WinForms.Guna2Button();
             this.btn_Them = new Guna.UI2.WinForms.Guna2Button();
             this.txt_Search = new Guna.UI2.WinForms.Guna2TextBox();
+            this.btn_TimKiem = new Guna.UI2.WinForms.Guna2Button();
             this.pnl_ThongTinNV.SuspendLayout();
             this.guna2Panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvKH)).BeginInit();
@@ -317,26 +317,26 @@
             // 
             // dgvKH
             // 
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
-            this.dgvKH.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvKH.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle7.BackColor = System.Drawing.Color.White;
+            this.dgvKH.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle7;
+            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle8.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle8.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvKH.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle8;
             this.dgvKH.ColumnHeadersHeight = 25;
             this.dgvKH.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvKH.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle9.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle9.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            dataGridViewCellStyle9.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle9.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            dataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvKH.DefaultCellStyle = dataGridViewCellStyle9;
             this.dgvKH.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
             this.dgvKH.Location = new System.Drawing.Point(0, 2);
             this.dgvKH.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -369,24 +369,24 @@
             this.dgvKH.ThemeStyle.RowsStyle.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
             this.dgvKH.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvKH_CellClick);
             // 
-            // btn_TimKiem
+            // btn_Clear
             // 
-            this.btn_TimKiem.AutoRoundedCorners = true;
-            this.btn_TimKiem.BorderRadius = 22;
-            this.btn_TimKiem.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btn_TimKiem.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btn_TimKiem.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btn_TimKiem.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btn_TimKiem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_TimKiem.ForeColor = System.Drawing.Color.Black;
-            this.btn_TimKiem.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.btn_TimKiem.Location = new System.Drawing.Point(5, 553);
-            this.btn_TimKiem.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.btn_TimKiem.Name = "btn_TimKiem";
-            this.btn_TimKiem.Size = new System.Drawing.Size(180, 46);
-            this.btn_TimKiem.TabIndex = 12;
-            this.btn_TimKiem.Text = "Clear";
-            this.btn_TimKiem.Click += new System.EventHandler(this.btn_TimKiem_Click_1);
+            this.btn_Clear.AutoRoundedCorners = true;
+            this.btn_Clear.BorderRadius = 22;
+            this.btn_Clear.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_Clear.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btn_Clear.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btn_Clear.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btn_Clear.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_Clear.ForeColor = System.Drawing.Color.Black;
+            this.btn_Clear.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.btn_Clear.Location = new System.Drawing.Point(405, 490);
+            this.btn_Clear.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btn_Clear.Name = "btn_Clear";
+            this.btn_Clear.Size = new System.Drawing.Size(180, 46);
+            this.btn_Clear.TabIndex = 12;
+            this.btn_Clear.Text = "Clear";
+            this.btn_Clear.Click += new System.EventHandler(this.btn_TimKiem_Click_1);
             // 
             // btn_Sua
             // 
@@ -400,33 +400,13 @@
             this.btn_Sua.ForeColor = System.Drawing.Color.Black;
             this.btn_Sua.Image = global::BanVeMayBay.Properties.Resources.pencil;
             this.btn_Sua.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.btn_Sua.Location = new System.Drawing.Point(379, 490);
+            this.btn_Sua.Location = new System.Drawing.Point(208, 490);
             this.btn_Sua.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_Sua.Name = "btn_Sua";
             this.btn_Sua.Size = new System.Drawing.Size(180, 46);
             this.btn_Sua.TabIndex = 11;
             this.btn_Sua.Text = "Sửa";
             this.btn_Sua.Click += new System.EventHandler(this.btn_Sua_Click);
-            // 
-            // btn_Xoa
-            // 
-            this.btn_Xoa.AutoRoundedCorners = true;
-            this.btn_Xoa.BorderRadius = 22;
-            this.btn_Xoa.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btn_Xoa.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btn_Xoa.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btn_Xoa.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btn_Xoa.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_Xoa.ForeColor = System.Drawing.Color.Black;
-            this.btn_Xoa.Image = global::BanVeMayBay.Properties.Resources.trash;
-            this.btn_Xoa.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.btn_Xoa.Location = new System.Drawing.Point(192, 490);
-            this.btn_Xoa.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.btn_Xoa.Name = "btn_Xoa";
-            this.btn_Xoa.Size = new System.Drawing.Size(180, 46);
-            this.btn_Xoa.TabIndex = 10;
-            this.btn_Xoa.Text = "Xóa";
-            this.btn_Xoa.Click += new System.EventHandler(this.btn_Xoa_Click);
             // 
             // btn_Them
             // 
@@ -464,16 +444,36 @@
             this.txt_Search.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_Search.ForeColor = System.Drawing.Color.Black;
             this.txt_Search.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txt_Search.Location = new System.Drawing.Point(194, 553);
+            this.txt_Search.Location = new System.Drawing.Point(5, 555);
             this.txt_Search.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_Search.Name = "txt_Search";
             this.txt_Search.PasswordChar = '\0';
-            this.txt_Search.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.txt_Search.PlaceholderText = "Tìm Kiếm ";
+            this.txt_Search.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.txt_Search.PlaceholderText = "Nhập để tìm kiếm";
             this.txt_Search.SelectedText = "";
-            this.txt_Search.Size = new System.Drawing.Size(365, 46);
+            this.txt_Search.Size = new System.Drawing.Size(383, 46);
             this.txt_Search.TabIndex = 14;
             this.txt_Search.TextChanged += new System.EventHandler(this.txt_Search_TextChanged);
+            // 
+            // btn_TimKiem
+            // 
+            this.btn_TimKiem.AutoRoundedCorners = true;
+            this.btn_TimKiem.BorderRadius = 22;
+            this.btn_TimKiem.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_TimKiem.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btn_TimKiem.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btn_TimKiem.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btn_TimKiem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_TimKiem.ForeColor = System.Drawing.Color.Black;
+            this.btn_TimKiem.Image = global::BanVeMayBay.Properties.Resources.search;
+            this.btn_TimKiem.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.btn_TimKiem.Location = new System.Drawing.Point(405, 555);
+            this.btn_TimKiem.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btn_TimKiem.Name = "btn_TimKiem";
+            this.btn_TimKiem.Size = new System.Drawing.Size(180, 46);
+            this.btn_TimKiem.TabIndex = 10;
+            this.btn_TimKiem.Text = "Tìm kiếm";
+            this.btn_TimKiem.Click += new System.EventHandler(this.btn_TimKiem_Click);
             // 
             // frm_KhachHang
             // 
@@ -481,9 +481,9 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1710, 844);
             this.Controls.Add(this.txt_Search);
-            this.Controls.Add(this.btn_TimKiem);
+            this.Controls.Add(this.btn_Clear);
             this.Controls.Add(this.btn_Sua);
-            this.Controls.Add(this.btn_Xoa);
+            this.Controls.Add(this.btn_TimKiem);
             this.Controls.Add(this.btn_Them);
             this.Controls.Add(this.pnl_ThongTinNV);
             this.Controls.Add(this.guna2Panel1);
@@ -500,9 +500,8 @@
 
         #endregion
 
-        private Guna.UI2.WinForms.Guna2Button btn_TimKiem;
+        private Guna.UI2.WinForms.Guna2Button btn_Clear;
         private Guna.UI2.WinForms.Guna2Button btn_Sua;
-        private Guna.UI2.WinForms.Guna2Button btn_Xoa;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel8;
         private Guna.UI2.WinForms.Guna2DateTimePicker dtp_NgaySinh;
         private Guna.UI2.WinForms.Guna2ComboBox cb_GioiTinh;
@@ -521,5 +520,6 @@
         private Guna.UI2.WinForms.Guna2Panel guna2Panel1;
         private Guna.UI2.WinForms.Guna2DataGridView dgvKH;
         private Guna.UI2.WinForms.Guna2TextBox txt_Search;
+        private Guna.UI2.WinForms.Guna2Button btn_TimKiem;
     }
 }

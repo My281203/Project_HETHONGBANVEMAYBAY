@@ -20,17 +20,11 @@ namespace BanVeMayBay
         {
             InitializeComponent();
         }
-        private string RandomString() {
-            string str = "NV-";
-            Random r = new Random();
-            for (int i = 0; i < 7; i++) {
-                str += r.Next(1, 9);
-            }
-            return str;
-        }
+
         private void Clear()
         {
-            txt_MaNV.Text = RandomString();
+            NhanVienBUS nvBUS = new NhanVienBUS();
+            txt_MaNV.Text = nvBUS.GetNextMaNV();
             txt_Search.Text = "";
             txt_CMND.Text = "";
             txt_DiaChi.Text = "";
