@@ -1,4 +1,4 @@
-﻿
+
 using BUS;
 using DTO;
 using Guna.UI2.WinForms;
@@ -303,7 +303,7 @@ namespace BanVeMayBay
                 }
                 catch
                 {
-                    MessageBox.Show("Không tìm thấy");
+                    //MessageBox.Show("Không tìm thấy");
                 }
              
             }
@@ -340,10 +340,7 @@ namespace BanVeMayBay
             f.ShowDialog();
         }
 
-        private void dgv_PDC_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-            
-        }
+      
 
         private void dgv_PDC_CellClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -369,7 +366,7 @@ namespace BanVeMayBay
             DataTable dt2 = new DataTable();
             DataTable dt3 = new DataTable();
             DataTable dt4 = new DataTable();
-            dt4 = cb.TimCB(machuyen);
+           dt4 = cb.TimCB(Bientoancuc.machuyenbay);
 
             //dtp_NgayBay.Value = Convert.ToDateTime(dt4.Rows[0].ItemArray[1].ToString());
             dt1 = bv.LayNguocHBay(s1);
@@ -379,9 +376,8 @@ namespace BanVeMayBay
             Bientoancuc.mamaybay= dt1.Rows[0].ItemArray[4].ToString().Trim();
             Bientoancuc.matuyenbay = dt1.Rows[0].ItemArray[1].ToString().Trim();
             Bientoancuc.ngaybay = Convert.ToDateTime(dt1.Rows[0].ItemArray[5].ToString());
-            Debug.WriteLine(Bientoancuc.ngaybay);
-            Debug.WriteLine(Bientoancuc.mamaybay);
-            Debug.WriteLine(Bientoancuc.matuyenbay);
+        
+            ;
             string noidi1 = dt1.Rows[0].ItemArray[2].ToString();
             string noiden = dt1.Rows[0].ItemArray[3].ToString();
             dt2 = bv.LayNguocTenDenVaDI(noidi1);
