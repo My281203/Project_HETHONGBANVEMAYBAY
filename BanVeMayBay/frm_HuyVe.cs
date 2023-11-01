@@ -101,5 +101,10 @@ namespace BanVeMayBay
         {
 
         }
+
+        private void lbmave_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

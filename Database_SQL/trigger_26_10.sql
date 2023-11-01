@@ -802,10 +802,11 @@ AS
 BEGIN
     declare @MaNV varchar(10)
 	set @MaNV = dbo.GetNextMaNV()
-    INSERT INTO NHANVIEN VALUES(@MaNV, @CCCD, @TenNV, @NgaySinh, @GioiTinh, @SDT, @Diachi);
+    INSERT INTO NHANVIEN VALUES(@MaNV, @CCCD, @TenNV, @NgaySinh, @GioiTinh, @SDT, @Diachi, 1);
     INSERT INTO PHANQUYEN (MaNV, TaiKhoan, MatKhau, UyQuyen) VALUES (@MaNV, @MaNV, '123456789', 0); -- Giả sử mật khẩu mặc định là 'MatKhauMacDinh' và không có quyền đặc biệt
 END
 go
+
 CREATE or alter FUNCTION GetNextMaChuyenBay ()
 RETURNS VARCHAR(15)
 AS
@@ -1082,11 +1083,12 @@ AS
 BEGIN
     SET NOCOUNT ON;
 
-    -- Kiểm tra trùng lặp CCCD và SDT
+    -- Kiểm tra trùng lặp CCCD và SDT và xác định TrangThaiLamViec
     IF EXISTS (
         SELECT 1
         FROM NHANVIEN n
         INNER JOIN inserted i ON n.CCCD = i.CCCD AND n.MaNV <> i.MaNV
+        WHERE i.TrangThaiLamViec <> 0
     )
     BEGIN
         PRINT N'Không được cập nhật CCCD trùng với CCCD của nhân viên khác';
@@ -1098,6 +1100,7 @@ BEGIN
         SELECT 1
         FROM NHANVIEN n
         INNER JOIN inserted i ON n.SDT = i.SDT AND n.MaNV <> i.MaNV
+        WHERE i.TrangThaiLamViec <> 0
     )
     BEGIN
         PRINT N'Không thể cập nhật Số Điện Thoại trùng với nhân viên khác.';
@@ -1105,7 +1108,7 @@ BEGIN
         RETURN;
     END
 
-    -- Thực hiện cập nhật vào bảng NHANVIEN nếu không có xung đột
+    -- Thực hiện cập nhật vào bảng NHANVIEN nếu không có xung đột và TrangThaiLamViec khác 0
     UPDATE NHANVIEN
     SET
         CCCD = i.CCCD,
@@ -1113,18 +1116,45 @@ BEGIN
         NgaySinh = i.NgaySinh,
         GioiTinh = i.GioiTinh,
         SDT = i.SDT,
-        DiaChi = i.DiaChi
+        DiaChi = i.DiaChi,
+        TrangThaiLamViec = i.TrangThaiLamViec
     FROM inserted i
-    WHERE NHANVIEN.MaNV = i.MaNV;
-
+    WHERE NHANVIEN.MaNV = i.MaNV AND i.TrangThaiLamViec <> 0;
 END
 go
+
 
 CREATE OR ALTER PROCEDURE SuaNV
 @MaNV varchar(10), @CCCD varchar(12), @TenNV nvarchar(30), @NgaySinh date, @GioiTinh nvarchar(5), @SDT varchar(10), @Diachi nvarchar(60)
 AS 
 BEGIN 
     UPDATE NHANVIEN SET CCCD = @CCCD, TenNV = @TenNV, NgaySinh = @NgaySinh, GioiTinh = @GioiTinh, SDT = @SDT ,DiaChi = @DiaChi  where MaNV = @MaNV
+	if @@ERROR <> 0
+		PRINT N'Sửa nhân viên Không thành công'
+
+END
+go
+
+CREATE OR ALTER PROC XoaNV
+@MaNV varchar(10)
+AS
+BEGIN
+    BEGIN TRANSACTION;
+
+    UPDATE NHANVIEN
+    SET TrangThaiLamViec = 0
+    WHERE MaNV = @MaNV AND TrangThaiLamViec <> 0;
+
+    IF @@ERROR <> 0
+    BEGIN
+        ROLLBACK;
+        PRINT N'Xóa nhân viên không thành công';
+    END
+    ELSE
+    BEGIN
+        COMMIT;
+        PRINT N'Xóa nhân viên thành công';
+    END
 END
 go
 

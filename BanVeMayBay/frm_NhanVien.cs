@@ -32,6 +32,7 @@ namespace BanVeMayBay
             txt_TenNV.Text = "";
             cb_GioiTinh.SelectedIndex = 0;
             dtp_NgaySinh.Value = DateTime.Today;
+            txt_trangThai.Text = "";
         }
         private void XemNhanVien()
         {
@@ -46,6 +47,7 @@ namespace BanVeMayBay
             dgvNV.Columns[4].HeaderText = "Giới tính";
             dgvNV.Columns[5].HeaderText = "Số điện thoại";
             dgvNV.Columns[6].HeaderText = "Địa chỉ";
+            dgvNV.Columns[7].HeaderText = "Trạng thái làm việc";
 
             dgvNV.Columns[0].Width = 140;
             dgvNV.Columns[1].Width = 170;
@@ -54,6 +56,7 @@ namespace BanVeMayBay
             dgvNV.Columns[4].Width = 120;
             dgvNV.Columns[5].Width = 150;
             dgvNV.Columns[6].Width = 270;
+            dgvNV.Columns[7].Width = 200;
             dgvNV.ColumnHeadersHeight = 40;
 
             dgvNV.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
@@ -101,7 +104,7 @@ namespace BanVeMayBay
             NhanVien nv = new NhanVien();
             nv.Manv = dgvNV.CurrentRow.Cells[0].Value.ToString();
             nhanVienBUS.XoaNV(nv.Manv);
-            XemNhanVien();
+            frm_NhanVien_Load(sender, e);
         }
 
         private void txt_SDT_KeyPress(object sender, KeyPressEventArgs e)
@@ -119,14 +122,18 @@ namespace BanVeMayBay
             dtp_NgaySinh.Value = Convert.ToDateTime(dgvNV.CurrentRow.Cells[3].Value.ToString());
             txt_SDT.Text = dgvNV.CurrentRow.Cells[5].Value.ToString();
             txt_DiaChi.Text = dgvNV.CurrentRow.Cells[6].Value.ToString();
+            if (dgvNV.CurrentRow.Cells[7].Value.ToString() == "True")
+                txt_trangThai.Text = "Còn làm việc";
+            else
+                txt_trangThai.Text = "Không còn làm việc";   
+            
         }
         private void btn_Sua_Click(object sender, EventArgs e)
         {
             NhanVienBUS nhanVienBUS = new NhanVienBUS();
-            NhanVien nv = new NhanVien(txt_MaNV.Text, txt_CMND.Text, txt_TenNV.Text, cb_GioiTinh.Text, txt_SDT.Text, txt_DiaChi.Text,Convert.ToDateTime(dtp_NgaySinh.Value));
+            NhanVien nv = new NhanVien(txt_MaNV.Text, txt_CMND.Text, txt_TenNV.Text, cb_GioiTinh.Text, txt_SDT.Text, txt_DiaChi.Text, Convert.ToDateTime(dtp_NgaySinh.Value));
             nhanVienBUS.SuaNV(nv);
             XemNhanVien();
-           // frm_NhanVien_Load(sender, e);
         }
 
         private void TimKiemNV()

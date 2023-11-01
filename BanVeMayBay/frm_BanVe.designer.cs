@@ -127,7 +127,7 @@
             this.guna2Button2.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.guna2Button2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.guna2Button2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button2.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2Button2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2Button2.ForeColor = System.Drawing.Color.White;
             this.guna2Button2.Location = new System.Drawing.Point(540, 110);
             this.guna2Button2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
@@ -683,7 +683,7 @@
             this.btnChonNoiKhoiHanh.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnChonNoiKhoiHanh.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.btnChonNoiKhoiHanh.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnChonNoiKhoiHanh.Font = new System.Drawing.Font("Segoe UI", 8F);
+            this.btnChonNoiKhoiHanh.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnChonNoiKhoiHanh.ForeColor = System.Drawing.Color.White;
             this.btnChonNoiKhoiHanh.Location = new System.Drawing.Point(580, 232);
             this.btnChonNoiKhoiHanh.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
@@ -700,7 +700,7 @@
             this.btn_ChonKH.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btn_ChonKH.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.btn_ChonKH.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btn_ChonKH.Font = new System.Drawing.Font("Segoe UI", 8F);
+            this.btn_ChonKH.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_ChonKH.ForeColor = System.Drawing.Color.White;
             this.btn_ChonKH.Location = new System.Drawing.Point(580, 480);
             this.btn_ChonKH.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
@@ -717,7 +717,7 @@
             this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button1.Font = new System.Drawing.Font("Segoe UI", 8F);
+            this.guna2Button1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2Button1.ForeColor = System.Drawing.Color.White;
             this.guna2Button1.Location = new System.Drawing.Point(580, 352);
             this.guna2Button1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);

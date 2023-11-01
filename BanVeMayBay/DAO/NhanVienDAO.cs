@@ -35,10 +35,12 @@ namespace DAO
         public void XoaNV(String maNV)
         {
             const string sql = "XoaNV";
+            const String sql2 = "XoaPhanQuyenNhanVien";
             SqlParameter[] sqlParameters = new SqlParameter[1];
             sqlParameters[0] = new SqlParameter("@MaNV", SqlDbType.NVarChar);
             sqlParameters[0].Value = Convert.ToString(maNV);
             executeUpdateOrDeleteQuery(sql, sqlParameters);
+            executeUpdateOrDeleteQuery(sql2, sqlParameters);
         }
         public void SuaNV(NhanVien nv)
         {

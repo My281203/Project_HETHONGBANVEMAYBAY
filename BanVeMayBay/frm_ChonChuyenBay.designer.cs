@@ -91,11 +91,12 @@
             // 
             // btn_Chon
             // 
+            this.btn_Chon.BorderRadius = 10;
             this.btn_Chon.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btn_Chon.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btn_Chon.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.btn_Chon.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btn_Chon.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btn_Chon.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Chon.ForeColor = System.Drawing.Color.White;
             this.btn_Chon.Location = new System.Drawing.Point(1310, 238);
             this.btn_Chon.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);

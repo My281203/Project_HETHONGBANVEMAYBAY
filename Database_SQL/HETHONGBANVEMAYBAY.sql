@@ -1,4 +1,4 @@
-create database HETHONGBANVEMAYBAY9
+﻿create database HETHONGBANVEMAYBAY9
 go
 
 use HETHONGBANVEMAYBAY9
@@ -115,7 +115,7 @@ ADD machuyenbay varchar(15) DEFAULT NULL,
 FOREIGN KEY (machuyenbay) REFERENCES  CHUYENBAY(MaChuyenBay);
 select * from CHONGOI
 
-
-
-
+-- Thêm cột TrangThaiLamViec kiểu bit với giá trị mặc định là 1 vào bảng NHANVIEN
+ALTER TABLE NHANVIEN
+ADD TrangThaiLamViec bit
 

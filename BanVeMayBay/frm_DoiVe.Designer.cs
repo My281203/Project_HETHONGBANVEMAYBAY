@@ -160,7 +160,8 @@
             // 
             // guna2GroupBox1
             // 
-            this.guna2GroupBox1.BorderColor = System.Drawing.Color.Coral;
+            this.guna2GroupBox1.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.guna2GroupBox1.BorderRadius = 10;
             this.guna2GroupBox1.Controls.Add(this.lbgiaghe);
             this.guna2GroupBox1.Controls.Add(this.lbCB);
             this.guna2GroupBox1.Controls.Add(this.lbSoGhe);
@@ -189,8 +190,9 @@
             this.guna2GroupBox1.Controls.Add(this.txtmahoadon);
             this.guna2GroupBox1.Controls.Add(this.txtcmnd);
             this.guna2GroupBox1.Controls.Add(this.txttrangthai);
-            this.guna2GroupBox1.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2GroupBox1.ForeColor = System.Drawing.Color.Salmon;
+            this.guna2GroupBox1.CustomBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.guna2GroupBox1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2GroupBox1.ForeColor = System.Drawing.Color.Black;
             this.guna2GroupBox1.Location = new System.Drawing.Point(30, 119);
             this.guna2GroupBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.guna2GroupBox1.Name = "guna2GroupBox1";
@@ -203,7 +205,7 @@
             this.lbgiaghe.AutoSize = true;
             this.lbgiaghe.Location = new System.Drawing.Point(149, 457);
             this.lbgiaghe.Name = "lbgiaghe";
-            this.lbgiaghe.Size = new System.Drawing.Size(30, 38);
+            this.lbgiaghe.Size = new System.Drawing.Size(25, 32);
             this.lbgiaghe.TabIndex = 68;
             this.lbgiaghe.Text = "*";
             // 
@@ -212,7 +214,7 @@
             this.lbCB.AutoSize = true;
             this.lbCB.Location = new System.Drawing.Point(802, 274);
             this.lbCB.Name = "lbCB";
-            this.lbCB.Size = new System.Drawing.Size(30, 38);
+            this.lbCB.Size = new System.Drawing.Size(25, 32);
             this.lbCB.TabIndex = 67;
             this.lbCB.Text = "*";
             // 
@@ -221,7 +223,7 @@
             this.lbSoGhe.AutoSize = true;
             this.lbSoGhe.Location = new System.Drawing.Point(802, 457);
             this.lbSoGhe.Name = "lbSoGhe";
-            this.lbSoGhe.Size = new System.Drawing.Size(30, 38);
+            this.lbSoGhe.Size = new System.Drawing.Size(25, 32);
             this.lbSoGhe.TabIndex = 66;
             this.lbSoGhe.Text = "*";
             // 
@@ -230,7 +232,7 @@
             this.lbNgayBay.AutoSize = true;
             this.lbNgayBay.Location = new System.Drawing.Point(802, 360);
             this.lbNgayBay.Name = "lbNgayBay";
-            this.lbNgayBay.Size = new System.Drawing.Size(30, 38);
+            this.lbNgayBay.Size = new System.Drawing.Size(25, 32);
             this.lbNgayBay.TabIndex = 65;
             this.lbNgayBay.Text = "*";
             // 
@@ -248,6 +250,7 @@
             // 
             // dtpngaybay
             // 
+            this.dtpngaybay.BorderRadius = 10;
             this.dtpngaybay.Checked = true;
             this.dtpngaybay.FillColor = System.Drawing.Color.Salmon;
             this.dtpngaybay.Font = new System.Drawing.Font("Segoe UI", 9F);
@@ -474,7 +477,7 @@
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.label6.ForeColor = System.Drawing.Color.Salmon;
+            this.label6.ForeColor = System.Drawing.Color.Black;
             this.label6.Location = new System.Drawing.Point(806, 4);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(151, 32);
@@ -484,6 +487,7 @@
             // lbngaydat
             // 
             this.lbngaydat.AutoSize = true;
+            this.lbngaydat.BackColor = System.Drawing.Color.Transparent;
             this.lbngaydat.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.lbngaydat.Location = new System.Drawing.Point(1016, 6);
             this.lbngaydat.Name = "lbngaydat";
@@ -538,6 +542,7 @@
             // lbmave
             // 
             this.lbmave.AutoSize = true;
+            this.lbmave.BackColor = System.Drawing.Color.Transparent;
             this.lbmave.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.lbmave.Location = new System.Drawing.Point(304, 7);
             this.lbmave.Name = "lbmave";

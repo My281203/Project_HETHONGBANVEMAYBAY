@@ -103,7 +103,7 @@
             this.btnTracuu.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnTracuu.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold);
             this.btnTracuu.ForeColor = System.Drawing.Color.White;
-            this.btnTracuu.Location = new System.Drawing.Point(714, 35);
+            this.btnTracuu.Location = new System.Drawing.Point(714, 40);
             this.btnTracuu.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnTracuu.Name = "btnTracuu";
             this.btnTracuu.Size = new System.Drawing.Size(202, 56);
@@ -113,7 +113,8 @@
             // 
             // guna2GroupBox1
             // 
-            this.guna2GroupBox1.BorderColor = System.Drawing.Color.Salmon;
+            this.guna2GroupBox1.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.guna2GroupBox1.BorderRadius = 10;
             this.guna2GroupBox1.Controls.Add(this.label3);
             this.guna2GroupBox1.Controls.Add(this.dtpngaybay);
             this.guna2GroupBox1.Controls.Add(this.label14);
@@ -138,8 +139,9 @@
             this.guna2GroupBox1.Controls.Add(this.txtmahoadon);
             this.guna2GroupBox1.Controls.Add(this.txtcmnd);
             this.guna2GroupBox1.Controls.Add(this.txttrangthai);
-            this.guna2GroupBox1.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2GroupBox1.ForeColor = System.Drawing.Color.Salmon;
+            this.guna2GroupBox1.CustomBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.guna2GroupBox1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2GroupBox1.ForeColor = System.Drawing.Color.Black;
             this.guna2GroupBox1.Location = new System.Drawing.Point(41, 117);
             this.guna2GroupBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.guna2GroupBox1.Name = "guna2GroupBox1";
@@ -163,7 +165,8 @@
             // dtpngaybay
             // 
             this.dtpngaybay.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.dtpngaybay.BorderColor = System.Drawing.Color.LightGray;
+            this.dtpngaybay.BorderColor = System.Drawing.Color.Salmon;
+            this.dtpngaybay.BorderRadius = 10;
             this.dtpngaybay.BorderThickness = 2;
             this.dtpngaybay.Checked = true;
             this.dtpngaybay.FillColor = System.Drawing.Color.Salmon;
@@ -392,7 +395,7 @@
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label6.ForeColor = System.Drawing.Color.Black;
-            this.label6.Location = new System.Drawing.Point(803, 16);
+            this.label6.Location = new System.Drawing.Point(796, 3);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(151, 32);
             this.label6.TabIndex = 46;
@@ -401,9 +404,10 @@
             // lbngaydat
             // 
             this.lbngaydat.AutoSize = true;
+            this.lbngaydat.BackColor = System.Drawing.Color.Transparent;
             this.lbngaydat.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.lbngaydat.ForeColor = System.Drawing.Color.Salmon;
-            this.lbngaydat.Location = new System.Drawing.Point(1016, 15);
+            this.lbngaydat.ForeColor = System.Drawing.Color.Black;
+            this.lbngaydat.Location = new System.Drawing.Point(1028, 5);
             this.lbngaydat.Name = "lbngaydat";
             this.lbngaydat.Size = new System.Drawing.Size(31, 30);
             this.lbngaydat.TabIndex = 18;
@@ -457,13 +461,15 @@
             // lbmave
             // 
             this.lbmave.AutoSize = true;
+            this.lbmave.BackColor = System.Drawing.Color.Transparent;
             this.lbmave.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.lbmave.ForeColor = System.Drawing.Color.Salmon;
-            this.lbmave.Location = new System.Drawing.Point(366, 16);
+            this.lbmave.ForeColor = System.Drawing.Color.Black;
+            this.lbmave.Location = new System.Drawing.Point(366, 5);
             this.lbmave.Name = "lbmave";
             this.lbmave.Size = new System.Drawing.Size(31, 30);
             this.lbmave.TabIndex = 13;
             this.lbmave.Text = "...";
+            this.lbmave.Click += new System.EventHandler(this.lbmave_Click);
             // 
             // txtmahoadon
             // 

@@ -10,7 +10,19 @@ namespace DTO
     {
         private string manv, cmnd, tennv, gioitinh, sdt, diachi;
         private DateTime ngaysinh;
+        bool trangthailamviec;
         public NhanVien() { }
+        public NhanVien(string manv, string cmnd, string tennv, string gioitinh, string sdt, string diachi, DateTime ngaysinh, bool trangthailamviec)
+        {
+            this.Manv = manv;
+            this.Cmnd = cmnd;
+            this.Tennv = tennv;
+            this.Gioitinh = gioitinh;
+            this.Sdt = sdt;
+            this.Diachi = diachi;
+            this.Ngaysinh = ngaysinh;
+            this.trangthailamviec = trangthailamviec;
+        }
         public NhanVien(string manv, string cmnd, string tennv, string gioitinh, string sdt, string diachi, DateTime ngaysinh)
         {
             this.Manv = manv;
@@ -21,9 +33,20 @@ namespace DTO
             this.Diachi = diachi;
             this.Ngaysinh = ngaysinh;
         }
-        public NhanVien( string cmnd, string tennv, string gioitinh, string sdt, string diachi, DateTime ngaysinh)
+        public NhanVien( string cmnd, string tennv, string gioitinh, string sdt, string diachi, DateTime ngaysinh, bool trangthailamviec)
         {
         
+            this.Cmnd = cmnd;
+            this.Tennv = tennv;
+            this.Gioitinh = gioitinh;
+            this.Sdt = sdt;
+            this.Diachi = diachi;
+            this.Ngaysinh = ngaysinh;
+            this.trangthailamviec = trangthailamviec;
+        }
+        public NhanVien(string cmnd, string tennv, string gioitinh, string sdt, string diachi, DateTime ngaysinh)
+        {
+
             this.Cmnd = cmnd;
             this.Tennv = tennv;
             this.Gioitinh = gioitinh;
@@ -38,5 +61,6 @@ namespace DTO
         public string Sdt { get => sdt; set => sdt = value; }
         public string Diachi { get => diachi; set => diachi = value; }
         public DateTime Ngaysinh { get => ngaysinh; set => ngaysinh = value; }
+        public bool Transgthailamviec { get => trangthailamviec; set => trangthailamviec = value; }
     }
 }
